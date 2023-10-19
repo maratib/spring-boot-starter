@@ -1,5 +1,6 @@
 # Spring boot starter
-Spring boot 3, logging, junit 5, profiles, folder structure
+Spring Boot : 3.1.5  
+logging, junit 5, profiles, folder structure
 
 ### Packages
 starter-web, devtools, lombok
